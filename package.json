@@ -4,6 +4,7 @@
   "author": "Pavlos Polianidis <info@apocentre.com> (https://www.apocentre.com/)",
   "license": "MIT",
   "scripts": {},
+  "type": "module",
   "dependencies": {
     "@apocentre/spl-token-swap": "Apocentre/spl-token-swap",
     "@metaplex-foundation/amman": "^0.1.0",
