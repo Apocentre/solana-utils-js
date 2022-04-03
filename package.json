@@ -1,0 +1,19 @@
+{
+  "name": "@apocentre/solana-utils-js",
+  "version": "0.2.0",
+  "author": "Pavlos Polianidis <info@apocentre.com> (https://www.apocentre.com/)",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "@apocentre/spl-token-swap": "Apocentre/spl-token-swap",
+    "@metaplex-foundation/amman": "^0.1.0",
+    "@metaplex-foundation/mpl-token-metadata": "^1.2.5",
+    "@project-serum/anchor": "^0.22.1",
+    "@solana/buffer-layout": "^4.0.0",
+    "@solana/spl-token": "^0.2.0"
+  },
+  "repository": "git@github.com:Apocentre/solana-web3",
+  "devDependencies": {
+    "@types/bn.js": "^5.1.0"
+  }
+}
